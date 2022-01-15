@@ -1,5 +1,5 @@
 # json-simplified
-<img src="https://img.shields.io/npm/v/json-simplified?style=for-the-badge">
+<img src="https://img.shields.io/npm/v/json-simplified?style=for-the-badge"> <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support My Open Source Project', '#29abe0', 'K3K47LTWF');kofiwidget2.draw();</script> 
 
 Simple JSON Database
 
