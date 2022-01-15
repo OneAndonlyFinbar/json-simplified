@@ -1,6 +1,5 @@
 # json-simplified
-<img src="https://img.shields.io/npm/v/json-simplified?style=for-the-badge"> <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support My Open Source Project', '#29abe0', 'K3K47LTWF');kofiwidget2.draw();</script> 
-
+<img src="https://img.shields.io/npm/v/json-simplified?style=for-the-badge"> <a href='https://ko-fi.com/K3K47LTWF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 Simple JSON Database
 
 Created By: OneAndonlyFinbar<br>
